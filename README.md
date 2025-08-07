@@ -1,6 +1,3 @@
-✨ Projeto_ASCII — Transforme vídeos e imagens em arte!
-Este projeto nasceu da ideia de unir criatividade com programação! Com ele, você pode transformar qualquer imagem ou vídeo em uma arte ASCII estilosa — direto no terminal, colorido em HTML ou até como uma imagem .png com cores que lembram o original.
+# ASCII Image Converter
 
-Feito com Python, esse conversor é perfeito para quem quer aprender mais sobre processamento de imagens, manipulação de arquivos e construção de interfaces gráficas (Tkinter). Tudo com código limpo, comentado e pronto pra evoluir.
-
-💡 Ideal para estudos, projetos criativos ou só pra se divertir vendo seus vídeos favoritos em forma de texto!
+Este projeto é uma aplicação em Python com interface gráfica (Tkinter) que converte imagens em arte ASCII. O usuário pode selecionar uma imagem do seu computador, e o programa gera uma representação artística com caracteres, salvando o resultado automaticamente em um arquivo `.txt`. Ideal para experimentos visuais e aprendizado com manipulação de imagens.
